@@ -32,7 +32,7 @@
   - ![DSA GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZS5mVR-6OdX2AI3SaYwQEQvccElPf231sdg&s)
 ## 💻 Coding Profiles
 
-- [LeetCode](https://leetcode.com/shabiabbas100) 
+- [LeetCode](https://leetcode.com/u/shabiabbas/) 
 - [CodeChef](https://www.codechef.com/users/zaidi100) 
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourusername/profile)
 ### Development Tools & Technologies:
