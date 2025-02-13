@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **shabiabbas100@gmail.com**
 
-- ⚡ Fun fact **One day without coding feels like one year without coding**
 - ## 🛠 Skills
 
 - **MERN Stack Developer**: 
