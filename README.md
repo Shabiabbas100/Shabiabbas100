@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Real Time API Integration, Problem Solving, Machine learning ,AI, Data structures and Algorithm, OOPS etc**
 
-- 👯 I’m looking to collaborate on **[**CodeX-FullStack-IDE**](https://github.com/Shabiabbas100/CodeX-FullStack-IDE)**
+- 👯 I’m looking to collaborate on **[**MERN-VirtualCode**](https://github.com/Shabiabbas100/CodeX-FullStack-IDE)**
 
 - 💬 Ask me about **Development and DSA**
 
