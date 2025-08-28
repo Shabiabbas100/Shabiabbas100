@@ -7,19 +7,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Shabi Abbas</h1>
-<h3 align="center"> A passionate MERN Stack Developer and DSA Coder from India, focused on building innovative web solutions and solving complex problems.</h3>
+<h3 align="center"> I'm IT'25 @ BIET JHANSI, super interested in coding and development </h3>
 <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Gif" align="right" width="350" >
-- 🔭 I’m currently working on **AI Powered FullStack Real Time Website**
+- 🌱 I’m currently learning **LLM,Gen AI, Data Science , ML and Python Lib.**
 
-- 🌱 I’m currently learning **Real Time API Integration, Problem Solving, Machine learning ,AI, Data structures and Algorithm, OOPS etc**
-
-- 👯 I’m looking to collaborate on **[**MERN-VirtualCode**](https://github.com/Shabiabbas100/CodeX-FullStack-IDE)**
+- 👯 I’m looking to collaborate on projects
 
 - 💬 Ask me about **Development and DSA**
 
 - 📫 How to reach me **shabiabbas100@gmail.com**
 
 - ## 🛠 Skills
+- Python and its Lib.. | Data Science | ML | Gen AI
 
 - **MERN Stack Developer**: 
   - Building dynamic web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
@@ -34,13 +33,6 @@
 - [LeetCode](https://leetcode.com/u/shabiabbas/) 
 - [CodeChef](https://www.codechef.com/users/zaidi100) 
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourusername/profile)
-### Development Tools & Technologies:
-
-- Proficient in **Git** for version control and **GitHub** for efficient collaboration and project management.
-- Experienced with **VS Code**, **Postman**, and **Docker**, ensuring streamlined development and testing workflows.
-- Skilled in deploying applications on **Cloud Platforms** such as **Render** and **Heroku** to ensure scalability and reliability.
-- Comfortable with **CI/CD pipelines** and implementing **Agile development** methodologies to optimize team productivity and deliver high-quality solutions.
-- <img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg" alt="Gif"  width="400" height="350">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
